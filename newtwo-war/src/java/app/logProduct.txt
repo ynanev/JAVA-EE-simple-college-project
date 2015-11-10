@@ -1,0 +1,23 @@
+Removed:  Isbn123435 Title: bogy Amount: 2!
+Removed:  Isbn123546 Title: titi Amount: 3!
+Removed:  Isbn49 Title: bigbook Amount: 6All related comments!
+Added:  Isbn3636 Title: apple Amount: 3!
+Removed:  Isbn3636 Title: apple Amount: 3All related comments!
+Added:  Isbn4545 Title: bugy Amount: 4 addmin:yavor
+Added:  Isbn3434 Title: nunu Amount: 4 addmin:yavor
+Removed:  Isbn3434 Title: nunu Amount: 4All related comments! addmin:yavor
+Added:  Isbn2462015/04/26 23:39:56 Title: tttt Amount: 3 addmin:yavor
+Removed:  Isbn246 :2015/04/26 23:40:03 Title: tttt Amount: 3All related comments! addmin:yavor
+Added:  Isbn :234234 :2015/04/26 23:49:57 Title: gsgs Amount: 1 addmin:yavor
+Added:  Isbn :1846 :2015/04/27 08:13:59 Title: huriicane Amount: 20 addmin:yavor
+Removed:  Isbn1846 :2015/04/27 08:17:48 Title: huriicane Amount : 10	 All related comments! addmin:yavor
+Added:  Isbn :194 :2015/04/27 08:34:40 Title: <script>alert('xss');</script> Amount: 2 addmin:yavor
+Added:  Isbn :124155 :2015/04/27 08:35:00 Title: gody Amount: 3 addmin:yavor
+Removed:  Isbn1234556 :2015/04/27 08:40:36 Title: erwerw Amount : 3	 All related comments! addmin:yavor
+Removed:  Isbn4325 :2015/04/27 08:40:46 Title: islebook Amount : 5	 All related comments! addmin:yavor
+Removed:  Isbn345435 :2015/04/27 08:41:11 Title: ghfh Amount : 1	 All related comments! addmin:yavor
+Removed:  Isbn214314 :2015/04/27 08:41:31 Title: sdgsgsg Amount : 1	 All related comments! addmin:yavor
+Removed:  Isbn123435 :2015/04/27 08:41:50 Title: bogy Amount : 2	 All related comments! addmin:yavor
+Removed:  Isbn123546 :2015/04/27 08:42:14 Title: titi Amount : 3	 All related comments! addmin:yavor
+Removed:  Isbn234234 :2015/04/27 08:42:29 Title: gsgs Amount : 1	 All related comments! addmin:yavor
+Removed:  Isbn124155 :2015/04/27 08:42:42 Title: gody Amount : 3	 All related comments! addmin:yavor

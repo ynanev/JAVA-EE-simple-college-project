@@ -1,0 +1,19 @@
+STATUS     USER         DATE   TIME       ORDER-DETAILS 
+Purchased: kevin:  2015/04/26 03:01:53:  11, quantity: 2; 
+Purchased: null:   2015/04/26 03:02:12:  12, quantity: 2; 
+Purchased: joe:  2015/04/26 03:05:40:  11, quantity: 1; 12, quantity: 1; 144, quantity: 1; 13, quantity: 1; 
+Cancelled: null:  2015/04/26 03:06:15:  13, quantity: 2; 
+Cancelled: kevin:  2015/04/26 03:07:14:  162, quantity: 2;
+Cancelled: kevin:  2015/04/26 03:21:22:  13, quantity: 2; 
+Purchased: kevin:  2015/04/26 03:21:35:  144, quantity: 2; 
+Cancelled: kevin:  2015/04/26 03:21:44:  12, quantity: 2; 
+Cancelled: kevin:  2015/04/26 03:21:54:  14, quantity: 2; 
+Cancelled: joe:  2015/04/26 22:09:15:  12, quantity: 2; 
+Purchased: kevin:  2015/04/27 00:25:16:  12, quantity: 2; 
+Cancelled: joe:  2015/04/27 07:54:46:  11, quantity: 2; 12, quantity: 1; 13, quantity: 1; 
+Cancelled: joe:  2015/04/27 08:04:47:  11, quantity: 2; 13, quantity: 1; 
+Purchased: joe:  2015/04/27 08:05:00:  144, quantity: 2; 
+Cancelled: kevin:  2015/04/27 08:09:17:  12, quantity: 2; 
+Purchased: kevin:  2015/04/27 08:09:20:  
+Cancelled: joe:  2015/04/27 08:20:33:  12, quantity: 2; 
+Cancelled: kevin:  2015/04/27 08:47:09:  12, quantity: 3; 
