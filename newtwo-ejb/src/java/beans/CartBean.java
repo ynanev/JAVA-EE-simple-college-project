@@ -8,7 +8,7 @@ import java.util.*;
 import javax.ejb.*;
 import java.util.concurrent.TimeUnit;
 import javax.ejb.Stateful;
-/**
+/*
  *
  * @author Rock n Roll
  */
